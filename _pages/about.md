@@ -13,8 +13,8 @@ profile:
     <p>Tsinghua University</p>
     <p>Beijing, China</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -26,5 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+{% include publication_badge_styles.liquid %}
 
 I am currently a PhD student at Qiuzhen College, Tsinghua University, supervised by [Prof. Juncai He](https://juncaihe.github.io/). Before that, I received my B.S. degree in Mathematics from Shanghai Jiao Tong University.
