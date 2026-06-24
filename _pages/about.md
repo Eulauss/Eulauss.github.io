@@ -12,6 +12,8 @@ profile:
     <p>Qiuzhen College</p>
     <p>Tsinghua University</p>
     <p>Beijing, China</p>
+    <p>Email:tzt23(AT)mails.tsinghua.edu.cn</p>
+    
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -29,4 +31,5 @@ latest_posts:
 
 {% include publication_badge_styles.liquid %}
 
-I am currently a PhD student at Qiuzhen College, Tsinghua University, supervised by [Prof. Juncai He](https://juncaihe.github.io/). Before that, I received my B.S. degree in Mathematics from Shanghai Jiao Tong University.
+I am currently a PhD student at Qiuzhen College, Tsinghua University, advised by [Prof. Juncai He](https://juncaihe.github.io/). Prior to this, I earned my B.S. in Mathematics from Shanghai Jiao Tong University. I do research on the theory of machine learning, applied mathematics, and AI for science, while constantly looking for 
+interesting and useful problems to dive into.
