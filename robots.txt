@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Eulauss.github.io/sitemap.xml
+Sitemap: https://eulauss.github.io/sitemap.xml
