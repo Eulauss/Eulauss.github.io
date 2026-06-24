@@ -6,4 +6,4 @@ nav: true
 nav_order: 3
 ---
 
-Off-duty achievements: I am a traveller of adventure rank 60 in Teyvat, and a Tailblazer of Level 70 in Star Rail.
+When I’m not doing research, you can find me as a Lv.60 Traveler in Teyvat or a Lv.70 Trailblazer in Star Rail.
