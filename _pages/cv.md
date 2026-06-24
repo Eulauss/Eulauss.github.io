@@ -1,11 +1,8 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
-nav: false
+nav: true
 nav_order: 2
-cv_format: rendercv # options: rendercv, jsonresume
-description: Academic CV.
-toc:
-  sidebar: left
+redirect: assets/pdf/tzt-cv-webpage-26.06.pdf
 ---
