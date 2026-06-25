@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: PhD student at Qiuzhen College, Tsinghua University
 
