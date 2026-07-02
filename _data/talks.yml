@@ -1,0 +1,15 @@
+# Add talks here. The Research page sorts by sort_key.
+# Use sort_key as YYYY-MM-DD, YYYY-MM, or YYYY.
+#
+# - event: Example Conference
+#   date: Jul, 2026
+#   sort_key: 2026-07
+#   location: London, United Kingdom
+#   note: Optional short note
+#   url: https://example.com
+
+- event: International Conference on Scientific Computation and Differential Equations (SciCADE)
+  date: Jul, 2026. 
+  sort_key: "2026-07"
+  title: 'Sharp Sobolev Sandwich and Approximation for Radon domain \(L^p\) Spaces'
+  location: University of Edinburgh
